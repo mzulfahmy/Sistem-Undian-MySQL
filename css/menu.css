@@ -1,0 +1,30 @@
+body {
+font-family:'Open Sans',sans-serif;
+background:#282828;
+font-size:13px;
+color:#fff;
+}
+
+#box {
+position:relative;
+overflow:hidden;
+min-width:300px;
+min-height:800px;
+margin: -10;
+}
+
+.container {
+	position:relative;
+	width:100%;
+}
+
+.header {
+	background:#0099cc;
+	position:relative;
+	padding: 45px 0;
+	margin:-10
+}
+
+.color-1 {
+background:#029ec6;
+}
