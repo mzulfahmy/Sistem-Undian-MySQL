@@ -50,12 +50,6 @@ $(document).ready(function() {
 		$(".user-icon").css("left","0px");
 	});
 	
-	$(".password").focus(function() {
-		$(".pass-icon").css("left","-48px");
-	});
-	$(".password").blur(function() {
-		$(".pass-icon").css("left","0px");
-	});
 });
 </script>
 
