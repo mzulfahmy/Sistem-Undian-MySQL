@@ -18,9 +18,15 @@ Requirement :
 Some LAN wire
 Instalasi skrip / Script installation
 
---WINDOWS 1. Instal aplikasi XAMPP 2. Mulakan servis Apache(http) dan MySQL 3. and so on
+--WINDOWS 
+1. Instal aplikasi XAMPP 
+2. Mulakan servis Apache(http) dan MySQL 
+3. and so on
 
---Linux (UBUNTU) 1. Instal pakej Apache dan MySQL di terminal 2. Mulakan kedua dua servis berikut 3.
+--Linux (UBUNTU) 
+1. Instal pakej Apache dan MySQL di terminal 
+2. Mulakan kedua dua servis berikut 
+3. later update :3
 
 END OF README
 
